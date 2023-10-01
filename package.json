@@ -1,0 +1,11 @@
+{
+  "name": "kp.readme.generator",
+  "version": "1.0.0",
+  "description": "AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
