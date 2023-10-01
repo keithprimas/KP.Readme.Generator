@@ -21,7 +21,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Link to Walkthrough Video
-<iframe src="https://drive.google.com/file/d/1MWPDn1K0lWD8M4gKFDlJN6YFAdfE2423/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1MWPDn1K0lWD8M4gKFDlJN6YFAdfE2423/preview
 
 ## Screenshots
 ![Alt text](Develop/screenshot1.png)
