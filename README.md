@@ -21,7 +21,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Link to Walkthrough Video
-
+<video src="Develop/demo.mp4" controls title="Title"></video>
 
 ## Screenshots
 ![Alt text](Develop/screenshot1.png)
