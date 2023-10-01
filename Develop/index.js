@@ -99,7 +99,7 @@ function generateREADME(userInput) {
   ## Contributing
   ${userInput.contributing}
 
-  ## Test
+  ## Tests
   ${userInput.test}
 
   ## License
@@ -111,12 +111,14 @@ function generateREADME(userInput) {
   Email: ${userInput.email}
   `;
 
+  fs.writeFileSync('README.md', readmeContent);
+
   return readmeContent;
 
   // Write the content to a README.md file
   // Use file system operations like fs.writeFileSync() to create the README file
 
-  fs.writeFileSync('README.md', readmeContent);
 }
+
 
 module.exports = generateREADME;

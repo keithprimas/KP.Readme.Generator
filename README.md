@@ -23,5 +23,10 @@ THEN I am taken to the corresponding section of the README
 ## Link to Walkthrough Video
 
 
+## Screenshots
+![Alt text](Develop/screenshot1.png)
+![Alt text](Develop/screenshot2.png)
+![Alt text](Develop/screenshot3.png)
+
 ## Source Code
 https://github.com/coding-boot-camp/potential-enigma.git

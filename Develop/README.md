@@ -1,8 +1,8 @@
 
-  # s
+  # demo
 
   ## Description
-  s
+  demo
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,22 +13,22 @@
   - [Questions](#questions)
 
   ## Installation
-  s
+  demo
 
   ## Usage
-  s
+  demo
 
   ## Contributing
-  s
+  demo
 
-  ## Test
-  s
+  ## Tests
+  demo
 
   ## License
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
   MIT
 
   ## Questions
-  GitHub: [GitHub Profile](https://github.com/s)
-  Email: s
+  GitHub: [GitHub Profile](https://github.com/demo)
+  Email: demo
   
