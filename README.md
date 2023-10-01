@@ -21,7 +21,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Link to Walkthrough Video
-C:\Users\keith\OneDrive\Desktop\Modules\KP.Readme.Generator\KP.Readme.Generator\Develop\demo.mp4
+https://vscode.dev/github/keithprimas/KP.Readme.Generator/blob/main/Develop/demo.mp4
 
 ## Screenshots
 ![Alt text](Develop/screenshot1.png)
